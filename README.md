@@ -1,7 +1,7 @@
 <h1>Массовое добавление сотрудников в домен Active Directory.</h1>
 
 
-Чтобы воспользоваться программой достаточно перейти на [сайт](https://denis-linux.github.io/ADD-Users-ActiveDirectory/) - https://konovalovda.github.io/ADD-Users-ActiveDirectory/
+Чтобы воспользоваться программой достаточно перейти на [сайт](https://denis-linux.github.io/ADD-Users-ActiveDirectory/) - https://denis-linux.github.io/ADD-Users-ActiveDirectory/
 
 Инструкция:
 1. Вносим данные вашего домена Aсtive Directory "A3f.local", "BB.ru" и т.п.
